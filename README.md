@@ -1,2 +1,2 @@
 # RandomPasswdGenerator
-Random password generator, generates passwoods with upper and lowercase letters with numbers. 
+Random password generator, generates a random password that contains uppercase letters, lowercase letters, and numbers. 
